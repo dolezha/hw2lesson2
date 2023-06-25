@@ -1,0 +1,26 @@
+h1 {
+    background: red;
+}
+
+.paragraph-1{
+    background: blueviolet;
+    font-size: 32pt;
+    color: chartreuse;
+}
+
+
+.paragraph-2{
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24 pt;
+    margine-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20 px;
+}
+
+.paragraph-3{
+    font-weight: boll;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
